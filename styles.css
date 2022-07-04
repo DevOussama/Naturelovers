@@ -64,8 +64,4 @@ header nav {
         margin: 10px;
     }
   } 
-  @media only screen and (max-width: 745px) {
-    header nav a {
-        display: block;
-    }
-  } 
+
