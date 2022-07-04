@@ -14,10 +14,7 @@ a {
 
 /* Header section */
 
-header {
-    /* display: grid;
-    grid-template-columns: 20% 50% 30%; */
-}
+
 
 header h1 {
     grid-column: 1 / 2;
