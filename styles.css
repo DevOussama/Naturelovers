@@ -55,7 +55,7 @@ header nav {
     height: auto;
     margin: 10px;
 }
-#carouselExampleControls {
+#carouselExampleIndicators, #carouselExampleIndicators1 , #carouselExampleIndicators2 {
     display: none;
 }
 @media only screen and (max-width: 500px) {
@@ -65,7 +65,7 @@ header nav {
         height: auto;
         margin: 10px;
     }
-    #carouselExampleControls {
+    #carouselExampleIndicators, #carouselExampleIndicators1 , #carouselExampleIndicators2 {
         display: block;
 
     }
