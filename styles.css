@@ -67,9 +67,17 @@ header nav {
     }
     #carouselExampleControls {
         display: block;
+
     }
-    #Lake {
+    #Lake, #Mountain, #Sky {
         display: none;
+    }
+
+
+ 
+    .carousel-inner {
+        height: auto;
+        overflow: hidden;
     }
   } 
 
