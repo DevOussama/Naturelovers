@@ -55,13 +55,21 @@ header nav {
     height: auto;
     margin: 10px;
 }
-
+#carouselExampleControls {
+    display: none;
+}
 @media only screen and (max-width: 500px) {
     .images img {
         width: 90%;
         /* min-width: 200px; */
         height: auto;
         margin: 10px;
+    }
+    #carouselExampleControls {
+        display: block;
+    }
+    #Lake {
+        display: none;
     }
   } 
 
